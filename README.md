@@ -6,7 +6,7 @@
 
 ## Project
 - Title: Ko-BERT 기반 기사형 광고 탐지 알고리즘, AN-DAE(Advertorial News-Detection Artificial modEl)
-- prize : Excellence Award(3rd)
+- prize : Excellence Award(3rd)🏆
 - Category: Classification, News data, NLP
 - Tool Used: python, pandas, sklearn, pytorch
 
